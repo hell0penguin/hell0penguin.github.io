@@ -2,3 +2,23 @@ h1 { font-family: sans-serif; color: cyan; }
 body { background-color: #1a1a1a; }
 p { font-family: sans-serif; color: lime; }
 
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
