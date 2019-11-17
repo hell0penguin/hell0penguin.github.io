@@ -1,43 +1,43 @@
-                            
+
 /* TEAM */
 
-                            
+
 Created By: LaserRaptorz, Circleen
 
-                            
-EMail: kravekrunch@protonmail.ch
 
-                            
+EMail: kravekrunch@protonmail.ch, circleen@yahoo.com
+
+
 Tox: 07B676DE0A74C02FF798A740847D3A81A5EA95191634640068F11AA46AA0C55A6224382A9071
 
-                            
+
 Location: England, UK
 
-                         
-                 
 
 
-							
+
+
+
 /* THANKS TO */
 
-							
+
 NightMargin
 GIRakaCHEEZER
-Nox					
+Nox
 PluswPlus
 Brabbit
 HyMyNameIsMatt
-                 
-                        
 
-                            
+
+
+
 /* SITE */
 
-                            
+
 Last update: 20191109
 
-                            
+
 Standards: HTML5, CSS
 
-                            
-Software: NotePad++
+
+Software: NotePad++, Atom
